@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToyRobot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a34bc9f1a8fcc16489c0769b0405442235c6266")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a908b4abe45369f7fda24b02bf17fa8d6a582f27")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToyRobot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToyRobot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,10 +13,7 @@ class Program
         Command command = new Command(robot);
         CommandParser commandParser = new CommandParser(command);
 
-        //string commands = @"C:\Users\D0861164\source\repos\ToyRobot\Command\commands.txt";
         var commands = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "commands.txt");
-
-        //Console.WriteLine("commands", commands);
 
         try
         {
@@ -25,11 +22,7 @@ class Program
                 string line;
                 while ((line = sr.ReadLine()) != null)
                 { 
-                    //Console.WriteLine("line", line);
-                    //var cmd = commandParser.ParseCommand(line);
-                    commandParser.ParseCommand(line);
-                    //if (cmd != null)
-                    //    cmd.Execute(robot);
+                     commandParser.ParseCommand(line);
                 }
             }
         }

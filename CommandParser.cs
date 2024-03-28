@@ -20,16 +20,13 @@ namespace ToyRobot
         public void ParseCommand(string inputCommand)
         {
             var commandParts = inputCommand.Split();
-            //Console.WriteLine(commandParts);
-            //Console.WriteLine(commandParts[0]);
+            
             switch (commandParts[0])
             {
                 case "PLACE":
                     _placed = true;
                     var args = commandParts[1].Split(',');
-                    //Console.WriteLine(args[0]);
-                    //Console.WriteLine(args[1]);
-                    //Console.WriteLine(args[2]);
+                  
                     _command.PlaceCommand(int.Parse(args[0]), int.Parse(args[1]), args[2]);
                     break;
                 case "MOVE":

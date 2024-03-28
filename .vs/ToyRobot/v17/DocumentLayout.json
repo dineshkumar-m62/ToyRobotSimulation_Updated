@@ -3,19 +3,11 @@
   "WorkspaceRootPath": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\bin\\debug\\net8.0\\commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:bin\\debug\\net8.0\\commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73AD9774-402B-4175-9A60-203E5BBE2B1D}|..\\ToyRobot.nUnitTests\\ToyRobot.nUnitTests.csproj|c:\\projects\\learings\\toyrobot.nunittests\\robottests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\tabletop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:tabletop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,6 +16,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\repository\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:repository\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\repository\\irepository\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:repository\\irepository\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|c:\\projects\\learings\\toyrobotsimulation_updated\\bin\\debug\\net8.0\\commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1B9A6BC-B7F9-49C1-ACBB-CA092EB0FF01}|ToyRobot.csproj|solutionrelative:bin\\debug\\net8.0\\commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,8 +49,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tabletop.cs",
+              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Tabletop.cs",
+              "RelativeDocumentMoniker": "Tabletop.cs",
+              "ToolTip": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Tabletop.cs",
+              "RelativeToolTip": "Tabletop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:05:02.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Repository\\Command.cs",
+              "RelativeDocumentMoniker": "Repository\\Command.cs",
+              "ToolTip": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Repository\\Command.cs",
+              "RelativeToolTip": "Repository\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:03:36.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Repository\\IRepository\\ICommand.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\ICommand.cs",
+              "ToolTip": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Repository\\IRepository\\ICommand.cs",
+              "RelativeToolTip": "Repository\\IRepository\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:03:32.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-03-28T15:56:35.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandParser.cs",
+              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\CommandParser.cs",
+              "RelativeDocumentMoniker": "CommandParser.cs",
+              "ToolTip": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\CommandParser.cs",
+              "RelativeToolTip": "CommandParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:17:34.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:26:13.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Robot.cs",
+              "RelativeDocumentMoniker": "Robot.cs",
+              "ToolTip": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Robot.cs",
+              "RelativeToolTip": "Robot.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwvwsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:40:09.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RobotTests.cs",
+              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobot.nUnitTests\\RobotTests.cs",
+              "RelativeDocumentMoniker": "..\\ToyRobot.nUnitTests\\RobotTests.cs",
+              "ToolTip": "C:\\Projects\\Learings\\ToyRobot.nUnitTests\\RobotTests.cs",
+              "RelativeToolTip": "..\\ToyRobot.nUnitTests\\RobotTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:43:42.726Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -45,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -58,46 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RobotTests.cs",
-              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobot.nUnitTests\\RobotTests.cs",
-              "RelativeDocumentMoniker": "..\\ToyRobot.nUnitTests\\RobotTests.cs",
-              "ToolTip": "C:\\Projects\\Learings\\ToyRobot.nUnitTests\\RobotTests.cs",
-              "RelativeToolTip": "..\\ToyRobot.nUnitTests\\RobotTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T12:43:42.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommandParser.cs",
-              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\CommandParser.cs",
-              "RelativeDocumentMoniker": "CommandParser.cs",
-              "ToolTip": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\CommandParser.cs",
-              "RelativeToolTip": "CommandParser.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T12:17:34.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Robot.cs",
-              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Robot.cs",
-              "RelativeDocumentMoniker": "Robot.cs",
-              "ToolTip": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Robot.cs",
-              "RelativeToolTip": "Robot.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAhwB0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T12:40:09.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "commands.txt",
               "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\bin\\Debug\\net8.0\\commands.txt",
               "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\commands.txt",
@@ -106,19 +187,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-03-27T01:07:44.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Projects\\Learings\\ToyRobotSimulation_Updated\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T09:26:13.021Z",
               "EditorCaption": ""
             }
           ]
