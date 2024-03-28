@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ToyRobot
-build_property.ProjectDir = C:\Projects\ToyRobotSimulation\
+build_property.ProjectDir = C:\Projects\Learings\ToyRobotSimulation_Updated\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

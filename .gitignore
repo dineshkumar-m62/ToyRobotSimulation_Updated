@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ToyRobot/FileContentIndex/091e8aba-fb77-4d3a-8b2c-460820ba3dfe.vsidx
+/.vs/ToyRobot/FileContentIndex/15ab95e4-eb15-4a63-8262-24ff6f8de553.vsidx
+/.vs/ToyRobot/FileContentIndex/1ad28c51-13aa-4f2a-bdbb-ca6d572f93dc.vsidx
+/.vs/ToyRobot/FileContentIndex/303cc461-682d-456b-ab4c-061975ee3eed.vsidx
+/.vs/ToyRobot/FileContentIndex/a0e0f9d8-627e-41f1-9523-91febe4b5b82.vsidx
+/.vs/ToyRobot/FileContentIndex/e2ce7585-87de-4ee7-a10d-c00ce7c69f5f.vsidx
+/.vs/ToyRobot/FileContentIndex/24af7782-14fe-4a01-a680-f3ce743341c5.vsidx
+*.vsidx
